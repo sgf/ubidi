@@ -8,3 +8,12 @@ Similar c# implementation like <a href=http://icu-project.org>ICU</a> and <a hre
 <h2> Implementation </h2>
 The current release v0.2 supports Unicode 6.3 Technical Report 9-28 revision(28) https://www.unicode.org/reports/tr9/tr9-28.html.
 Next releases will support latest Unicode version.
+
+
+
+
+some thing about unicode:
+
+https://github.com/Rungee/NLineBreak
+https://github.com/ufcpp/GraphemeSplitter
+https://github.com/DaniRK/UnicodeScriptDetectorNet
